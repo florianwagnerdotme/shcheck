@@ -78,7 +78,6 @@ sec_headers = {
     'Content-Security-Policy': 'warning',
     'X-Permitted-Cross-Domain-Policies': 'deprecated',
     'Referrer-Policy': 'warning',
-    'Expect-CT': 'deprecated',
     'Permissions-Policy': 'warning',
     'Cross-Origin-Embedder-Policy': 'warning',
     'Cross-Origin-Resource-Policy': 'warning',
